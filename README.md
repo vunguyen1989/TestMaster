@@ -12,7 +12,7 @@
 # Run
 ```
     cd src
-    go rum main.go
+    go run main.go
 ```
 # Development strategy
 ## add userinfo (DOING)
