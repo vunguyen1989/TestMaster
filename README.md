@@ -14,11 +14,11 @@
     cd src
     go run main.go
 ```
-# Development strategy
+# Dev progress
 ## add userinfo (DOING)
     - add user management system (and Hung Lai added something)
     - init db
         - db connection
-        - db crud for user
+    - db crud for user
 ## add testing domain apis
     they're showed in doc repository
